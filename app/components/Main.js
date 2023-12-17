@@ -18,7 +18,7 @@ export default function Main() {
               Desarrollo backend con pasión y precisión, usando las mejores herramientas y tecnologías para crear soluciones innovadoras y eficientes.</p>
             </div>
             <div>
-              <Link href={"/contact"}><button className='border-[#C778DD] border font-medium text-base py-2 px-4 hover:text-[#ABB2BF]'>Contact Me!!</button></Link>
+              <Link href={"/contact"}><button className='border-[#C778DD] border font-medium text-base py-2 px-4 hover:text-[#ABB2BF]'>¡Contactame!</button></Link>
             </div>
           </div>
         </Grid>
