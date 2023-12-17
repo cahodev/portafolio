@@ -1,0 +1,11 @@
+#underline:after {
+  content: "";
+  position: absolute;
+  bottom: -7px;
+  left: 0;
+  height: 7px;
+  width: 100%;
+  border: solid 2px white;
+  border-color: white transparent transparent transparent;
+  border-radius: 70%;
+}
